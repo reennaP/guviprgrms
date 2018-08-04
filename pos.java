@@ -5,6 +5,6 @@ int n=s.nextInt();
 if(n>0){
 System.out.println("positive");}
 if(n<0){
-System.out.println("negative")
+System.out.println("negative");
 }
 }}
